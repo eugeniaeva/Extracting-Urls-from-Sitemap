@@ -16,14 +16,7 @@ Usage:
 
 Run the script and provide the path to the XML sitemap file as input.
 The script will parse the sitemap, extract URLs, and generate an output containing the list of URLs.
-Example Output:
 
-arduino
-Copy code
-https://www.example.com/page1.html
-https://www.example.com/page2.html
-https://www.example.com/page3.html
-...
 Note:
 
 Ensure that the XML sitemap file follows the standard format specified by search engines.
